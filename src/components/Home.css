@@ -1,0 +1,33 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-heading{
+    text-align: center;
+    flex: 1;
+}
+
+.capture-image{
+    display: none;
+}
+
+.montiring-feed{
+    display: flex;
+    justify-content: space-around;
+}
+
+.first_feed{
+    text-align: center;
+}
+.second_feed{
+    text-align: center;
+}
+.third_feed{
+    text-align: center;
+}
+
+.download-btn{
+    
+}
